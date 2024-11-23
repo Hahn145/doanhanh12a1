@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Chủ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #343;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lịch sử hình thành trường THPT Phù Yên <h1>
+    </header>
+     <img src="https://assets.onecompiler.app/42yxftdh3/42yxfxe8b/z6060924506539_e445ddb3720378c991dde9c8d3dd5bd3.jpg" alt="Kỉ niệm 60 năm thành lập trường">
+    <div class="content">
+        <h2>Trường THPT Phù Yên - Sơn La là một trong những ngôi trường lâu đời nhất trên địa bàn tỉnh Sơn La. Là một trong những ngôi trường đầu tiên của tỉnh, trường đã trải qua một lịch sử lâu đời gắn liền với nhiều cột mốc đáng nhớ của đất nước.
+Trường Trung học Phổ thông Phù Yên - Sơn La được thành lập năm 1964 với sứ mệnh nuôi dạy con em đồng bào dân tộc thiểu số của tỉnh San Lô. Từ khi thành lập trường đạt nhiều danh hiệu: đơn vị trường tiên tiến, dẫn đầu khối THPT. Nhiều học sinh của trường đã đạt giải các cuộc thi, văn nghệ, thể dục thể thao cấp quốc gia. … Trường được biết đến với lịch sử lâu đời từ những năm kháng chiến chống ngoại xâm gian khổ, sau đó là công cuộc đổi mới của dân tộc, đánh đuổi cái dốt, cái khổ. Hiện nay, Trường THPT Phù Yên tự hào là một trong những trường Cấp 3 có chất lượng đào tạo tốt nhất tại địa bàn tỉnh Sơn La.
+Tháng 9 năm 1964, trường cấp 2 Quang Huy (nay là trường cấp THPT Phù Yên ) ra đời, đặt tại thị trấn Quang Huy , huyện Phù Yên - Sơn La , với nhiệm vụ thực hiện kế hoạch giáo dục phổ thông cho học sinh các huyện Bắc Yên và Phù Yên .Năm đầu tiên, trường có tất cả 3 lớp ở 3 khối THPT. Trường có 11 giảng viên và 37 sinh viên. Năm học đầu tiên, một học sinh của trường đạt giải nhất học sinh xuất sắc trong kỳ thi học sinh giỏi văn phía Bắc, trường được công nhận là trường tiên tiến của tỉnh Sơn La và được đưa vào danh sách các trường trung học tiên tiến miền Bắc. Trường đã chứng kiến hàng chục năm lịch sử hào hùng của dân tộc, đi qua những bom đạn của chiến tranh và cái nghèo đói của vùng cao.</h2>
+  <img src="https://assets.onecompiler.app/42yxftdh3/42yxfxe8b/z6060924501113_170f8610593b557e1a9a6ab0c7f5e599.jpg" alt="Tập thể lớp 12A1">
+        <p>Cám ơn vì đã đọc! </p>
+    </div>
+</body>
+</html>
